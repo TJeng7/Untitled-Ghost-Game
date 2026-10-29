@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Ty/TitleScene.unity
+    guid: f717701f3d75ee04cb6854e5c932031b
+  - enabled: 0
     path: Assets/Scenes/Cynthia Peng/TitleScene.unity
     guid: 1b845bda349b24e488cd74d696e23280
   - enabled: 0
@@ -128,5 +131,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainStorefront.unity
     guid: af7f47fa6f9f71245a3dd0de7b201e4d
+  - enabled: 1
+    path: Assets/Scenes/Ty/Latte3/Latte.unity
+    guid: 8e11174437afc3041ba041ff9dfd3489
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
