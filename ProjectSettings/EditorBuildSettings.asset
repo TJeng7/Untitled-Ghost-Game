@@ -131,9 +131,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainStorefront.unity
     guid: af7f47fa6f9f71245a3dd0de7b201e4d
-  - enabled: 0
-    path: Assets/Scenes/Ty/Latte3/Latte.unity
-    guid: 8e11174437afc3041ba041ff9dfd3489
   - enabled: 1
     path: Assets/Scenes/Minigames/Latte.unity
     guid: a9eb30b7e3eeded41864b08c1b7495dd
