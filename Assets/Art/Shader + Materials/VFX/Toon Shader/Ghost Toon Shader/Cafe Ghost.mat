@@ -22,7 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Cafe Ghost
   m_Shader: {fileID: -6465566751694194690, guid: 7026c82d70b09ec43b26b04cc59f6f7d, type: 3}
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 2100000, guid: 0748730c96b3c574d917b6f4cb276070, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -36,28 +36,10 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs:
-    - unity_Lightmaps:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_LightmapsInd:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_ShadowMasks:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+    m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _Distance: 1.2
-    - _Fresnel_Power: 1.5
-    - _Fresnel_Threshold: 0.5
-    - _QueueControl: 0
-    - _QueueOffset: 0
+    m_Floats: []
     m_Colors:
-    - _Color: {r: 0.89433956, g: 0.8209362, b: 0.74753284, a: 0.80784315}
-    - _Inner_Color: {r: 0.6679245, g: 0.3842189, b: 0.17517261, a: 1}
+    - _Color: {r: 0.89433956, g: 0.8209362, b: 0.74753284, a: 0.8156863}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
